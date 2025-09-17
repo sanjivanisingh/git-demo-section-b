@@ -1,6 +1,2 @@
-hello
-hi
-bye
-hi 
-by
-by
+fav color
+fav color is violet
